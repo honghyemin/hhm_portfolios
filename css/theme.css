@@ -21,6 +21,7 @@ header .container h1 {
                0 10px 10px rgba(0,0,0,.2),
                0 20px 20px rgba(0,0,0,.15);
   color: #ffffff;
+  text-align: right;
 }
 
 /* 네비게이션 바 */
@@ -72,7 +73,7 @@ header .container h1 {
 
 /* color  */
 .color-basic { color: #3f4165; } /* 테이블 제목 설명  */
-.color-basic-opac { color: #3f4165c2; } 
+.color-basic-opac { color: #3f4165c2;  text-align: left;} 
 .color-purple { color: #7A33FF; } 
 .color-purple-opac { color: #7a33ff8b; } 
 .color-grey { color: #3f416586; }
